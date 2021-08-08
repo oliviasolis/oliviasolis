@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @oliviasolis
+- 👀 I’m interested in expanding my knowledge in regards to the subjects of website development and coding in general
+- 🌱 I’m currently learning SEO or 'search engine optimization'
